@@ -1,0 +1,2 @@
+# -Employee-Performance-Workforce-Analytics-Dashboard-
+📌 Project Overview  The Employee Performance &amp; Workforce Analytics Dashboard is a data analytics and visualization project designed to analyze employee performance, workforce trends, salary distribution, and departmental insights. The dashboard provides an interactive way to explore employee data and identify patterns that can support data-driven 
